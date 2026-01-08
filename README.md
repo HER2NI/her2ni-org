@@ -22,6 +22,18 @@ This repository is intended for **research, evaluation, and safety-oriented expe
 
 ---
 
+## Relationship to H2E (Evaluation)
+
+HER2NI defines the *protocol and coherence metrics*.
+
+**H2E** is the official evaluator implementation that operationalizes
+HER2NI for interaction-level telemetry, drift detection, and audit workflows.
+
+Evaluation tooling, scoring pipelines, and test vectors live in the H2E repository.
+HER2NI itself remains a protocol and research specification.
+
+---
+
 ## HER2NI Reference Implementation — v0.1 (Experimental)
 
 ### Overview
@@ -55,9 +67,9 @@ HER2NI v0.1 implements the **minimum viable instrumentation layer** required to 
   - Hₛ(t) curves
   - Drift magnitude estimation
   - Collapse / instability markers
-- **AOME (Adaptive Offset Modulation Engine)**
+- **AOME (Adaptive Offset Modulation Engine — experimental, advisory)**
   - Deterministic mode selection
-  - Structured behaviour-modulation recommendations
+  - Structured *recommendations* for behavior modulation only (non-executing)
 - **Reproducible demo artifacts**
   - End-to-end example script
   - Small synthetic dialogue dataset
@@ -136,6 +148,9 @@ HER2NI is designed as a measurement and evaluation framework.
 - Outputs are intended to inform AI safety research, evaluation design,
 and behaviour-modulation studies
 
+HER2NI and its reference implementations do not autonomously intervene
+in live systems; all interpretation and action remain human-governed.
+
 Use of HER2NI should comply with applicable research ethics standards
 and data-protection requirements.
 
@@ -176,6 +191,6 @@ https://doi.org/10.5281/zenodo.17924574
 - HER2NI Protocol Specification (v1.0)
 https://zenodo.org/records/17844407
 - Research Website
-https://her2ni.org
+https://her2ni.ai
 - Contact
-research@her2ni.org
+research@her2ni.ai
