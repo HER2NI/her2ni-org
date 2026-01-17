@@ -26,7 +26,7 @@ states, diagnosing users, or replacing policy or governance systems.
 
 This repository hosts:
 
-- The public landing page for the **HER2NI Research Group**
+- The public landing page for **HER2NI Research**
 - Links to the HER2NI protocol paper and related research artifacts
 - Documentation and tooling for the **HER2NI reference implementation (experimental)**
 - Experimental materials for validation, falsification, and metric calibration
