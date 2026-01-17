@@ -1,0 +1,35 @@
+HER2NI — Human–Emergent Resonance to Neural Intelligence
+Research Protocol & Documentation
+
+Copyright © 2026 HER2NI
+
+All rights reserved.
+
+This repository contains research materials, protocol specifications,
+documentation, and illustrative artifacts relating to the HER2NI
+(Human–Emergent Resonance to Neural Intelligence) framework.
+
+Permission is granted to:
+- read, view, and reference these materials,
+- cite the HER2NI protocol in academic or policy work,
+- link to the official website and DOI records.
+
+Permission is NOT granted to:
+- copy or redistribute this repository or its contents in whole or in part,
+- create derivative protocols or systems presented as HER2NI or compatible equivalents,
+- use HER2NI branding, names, or marks without written consent,
+- represent these materials as certified, endorsed, or approved products.
+
+This repository does not grant any license to software implementations,
+evaluation engines, or commercial systems derived from HER2NI.
+Those are licensed separately.
+
+The canonical HER2NI protocol is published at:
+https://her2ni.ai
+https://doi.org/10.5281/zenodo.17844407
+
+For research correspondence:
+research@her2ni.ai
+
+For commercial or licensing enquiries:
+licensing@her2.ai
